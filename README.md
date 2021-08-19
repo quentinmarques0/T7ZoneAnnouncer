@@ -1,6 +1,6 @@
 # T7ZoneAnnouncer
 
-                                                    [CLICK TO DOWNLOAD](https://github.com/quentinmarques0/T7ZoneAnnouncer/archive/refs/tags/2.0.zip)
+[CLICK TO DOWNLOAD](https://github.com/quentinmarques0/T7ZoneAnnouncer/archive/refs/tags/2.0.zip)
                                         
                                         +-------------------------------------------+
                                         |       ZONE ANNOUNCER SCRIPTS & UI         |
